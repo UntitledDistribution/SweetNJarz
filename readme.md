@@ -7,4 +7,5 @@ This project was remade from memory after losing the original program due to cor
 
 ## Things to know:
  -- Program is intended to launch a configuration menu on first execution if the *prefs.txt* file does not exist (first time run)
- -- Program adds user input to *usrint.txt* and saves to your desired location.
+ -- Program adds user input to *usrinp.txt* and saves to your desired location as configured in your preferences. Each line will be displayed as:
+``` FirstName-Surname.Guess.ContactEmailOrPhone ```
